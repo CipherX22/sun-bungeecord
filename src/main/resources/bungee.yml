@@ -1,0 +1,4 @@
+name: SUN
+version: ${project.version}
+main: it.devfrqncy.sun.SUN
+description: Authentication - Anti vpn - 2fa staff

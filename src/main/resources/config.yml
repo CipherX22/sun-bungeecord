@@ -1,0 +1,23 @@
+# check on connection
+AntiVPN: true
+AntiProxy: true
+PhoneConnection-disabled: false
+
+# MAC-ADDRESS
+mac-address-whitelis: false
+
+# premium bypass - premium users bypass authentication but are saved to the database
+premium-bypass: true
+# enable bungee ip forwarding
+# spigot.yml bungeecord true
+
+# mysql config
+port: 3306
+host: "localhost"
+dbname: "password"
+username: "root"
+password: "password"
+useSSL: false
+autoReconnect: true
+
+
